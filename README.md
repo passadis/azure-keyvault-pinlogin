@@ -46,3 +46,7 @@ Our web application, while simple, plays a critical role. It verifies the correc
 ## Contribute
 
 We encourage contributions! If you have ideas on how to improve this application or want to report a bug, please feel free to open an issue or submit a pull request.
+
+## Architecture
+
+![keyvault-a](https://github.com/passadis/azure-keyvault-pinlogin/assets/53148138/49c4a2be-d72c-46c8-bf0c-36ded288f01a)
