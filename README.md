@@ -1,4 +1,11 @@
-# Azure Key Vault: Enhancing Security and Efficiency
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,py,html,css,vscode" />
+  </a>
+</p>
+
+<h1 align="center">Azure Key Vault: Enhancing Security and Efficiency</h1>
+
 
 ## Introduction
 
