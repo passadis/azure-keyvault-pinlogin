@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="logo">
+            <h1>Login to Your Account</h1>
+        </div>
+        <div class="login-box">
+            <form method="post">
+                <div class="form-group">
+                    <label for="pin">Enter Your PIN:</label>
+                    <input type="password" class="form-control" id="pin" name="pin">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

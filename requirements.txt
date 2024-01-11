@@ -1,0 +1,4 @@
+Flask==2.2.2
+azure-keyvault-secrets==4.3.0
+azure-identity==1.6.0
+Werkzeug==2.3.7
