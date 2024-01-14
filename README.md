@@ -43,6 +43,9 @@ Notice the dynamics here? We're establishing a PIN system to store PIN numbers, 
 
 Our web application, while simple, plays a critical role. It verifies the correct PIN through a form and allows the specific user to log in and proceed. This seamless integration illustrates the practicality and effectiveness of Azure Key Vault in real-world applications.
 
+## Instructions
+**Follow the Blog for Detailed Instructions**: For step-by-step guidance, visit [Azure Key Vault:Securing Your Digital Assets](https://www.cloudblogger.eu/2023/12/13/azure-key-vaultsecuring-your-digital-assets/).
+
 ## Contribute
 
 We encourage contributions! If you have ideas on how to improve this application or want to report a bug, please feel free to open an issue or submit a pull request.
